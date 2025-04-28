@@ -1,4 +1,0 @@
-x="jiji"
-print(x)
-if x=="jiji":
-    print(type(x))
